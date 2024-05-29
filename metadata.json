@@ -1,0 +1,14 @@
+{
+    "uuid": "usd-to-brl@kavinsky-spy.com",
+    "name": "USD to BRL",
+    "description": "Displays real-time currency exchange rates from USD to BRL.",
+    "shell-version": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "43.1"
+    ],
+    "url": "https://github.com/kavinsky-spy/usd-to-brl",
+    "version": 5
+}
